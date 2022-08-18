@@ -1,0 +1,172 @@
+body {
+  font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  text-align: center;
+}
+
+.top_div {
+  background-color: #c5ded7;
+  padding-top: 12rem;
+}
+
+.BARI_HEADING {
+  font-size: 4.625rem;
+  color: #45b29a;
+  width: 40%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-weight: lighter;
+}
+
+.CHOTI_HEADING {
+  font-size: 2rem;
+  color: #45b29a;
+}
+
+.topcloud {
+  display: inline-block;
+  position: absolute;
+  width: 150px;
+  max-width: 200px;
+  max-height: 150px;
+  right: 10rem;
+  top: 13rem;
+}
+
+.bottomcloud {
+  position: absolute;
+  width: 150px;
+  max-width: 200px;
+  max-height: 150px;
+  top: 21rem;
+  left: 4rem;
+}
+
+.landimg {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h4 {
+  color: #45b29a;
+  font-size: 1.8rem;
+  margin: 4rem auto 1rem auto;
+  font-weight: 500;
+  line-height: 1.1;
+  width: 50%;
+}
+
+h3 {
+  color: #1e836c;
+  font-size: 3.8em;
+  font-weight: 400;
+  margin-top: 8rem;
+}
+
+p {
+  display: inline-block;
+  width: 25rem;
+  font-size: 1.2em;
+  font-weight: 200;
+  color: #545454;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.profile {
+  width: 150px;
+  top: 2rem;
+  position: relative;
+}
+
+.pencil {
+  width: 150px;
+  float: left;
+  margin-top: 50px;
+}
+
+.designwhatuwant {
+  text-align: left;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.branding {
+  width: 150px;
+  float: right;
+  margin-top: 50px;
+  margin-right: 60px;
+}
+
+.dvlp {
+  text-align: left;
+  display: inline-block;
+}
+
+.bottom_div {
+  background-color: #c5ded7;
+  padding: 50px 0 20px 0;
+}
+
+
+.links:hover{
+
+  color: #EAF6F6;
+}
+.links {
+
+
+text-align: centre;
+
+      color: #45b29a;
+    font-size: 0.8em;
+    margin: 20px 20px;
+
+
+
+
+
+    text-decoration: none;
+}
+.copyright{
+  text-align: center;
+  color: #EAF6F6;
+font-size: 0.73em;
+padding-top: 3rem;
+
+
+
+}
+.button{
+
+              margin-bottom: 7rem;
+              margin-top: 6rem;
+}
+
+.btn { text-align: center;
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
